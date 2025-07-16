@@ -1,0 +1,11 @@
+# Articles about this tool in this repo
+article_*
+
+# Internal folders
+venv/
+.idea/
+images/
+
+# Compiled code
+*.pyc
+*.pyd
